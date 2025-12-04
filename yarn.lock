@@ -36343,7 +36343,7 @@ __metadata:
     react-native-url-polyfill: "npm:^1.3.0"
     react-native-vector-icons: "npm:10.2.0"
     react-native-video: "npm:^6.10.1"
-    react-native-view-shot: "npm:^3.1.2"
+    react-native-view-shot: "npm:^4.0.3"
     react-native-vision-camera: "npm:^4.6.4"
     react-redux: "npm:^8.1.3"
     react-test-renderer: "npm:18.3.1"
@@ -41459,15 +41459,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-view-shot@npm:^3.1.2":
-  version: 3.8.0
-  resolution: "react-native-view-shot@npm:3.8.0"
+"react-native-view-shot@npm:^4.0.3":
+  version: 4.0.3
+  resolution: "react-native-view-shot@npm:4.0.3"
   dependencies:
     html2canvas: "npm:^1.4.1"
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 10/abcde94525a0c25061af404d344e7aff015fb5d839ee8fde50c9e718db6f68f709b17f5e25498412e8b8a386e4094843205d938111f79595d6f9b8eacc0fee46
+  checksum: 10/5e4f133a69754cd5fd29bf762bfa5bf399f4c0b192972808cf4194e4775ac5d4415e01079e52be7d31bc5b25fe7efbd5e95f4a33967bab0f36725d4cc8903345
   languageName: node
   linkType: hard
 
