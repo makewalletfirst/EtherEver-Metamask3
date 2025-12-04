@@ -36311,7 +36311,7 @@ __metadata:
     react-native-level-fs: "npm:3.0.1"
     react-native-linear-gradient: "npm:^2.8.3"
     react-native-material-textfield: "npm:0.16.1"
-    react-native-mmkv: "npm:^3.2.0"
+    react-native-mmkv: "npm:^4.0.1"
     react-native-modal: "npm:^14.0.0-rc.1"
     react-native-nitro-modules: "npm:^0.29.6"
     react-native-os: "npm:^1.2.6"
@@ -41019,13 +41019,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-mmkv@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "react-native-mmkv@npm:3.2.0"
+"react-native-mmkv@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "react-native-mmkv@npm:4.0.1"
   peerDependencies:
     react: "*"
     react-native: "*"
-  checksum: 10/a024b8d7e1ef6a1934f961cb2505a5b855c261c9ce5bcb4b7e7bd95714a152f3bc10bf5d32cd3ab01324ff6a67c47190b330d3f5bc42a9b3896c706d11cc0598
+    react-native-nitro-modules: "*"
+  checksum: 10/24af00c8a93ca77c44fd3e53ff5effeec00939858e2e4f142988a050d2d5e74861dc28e6fbb584bba6a0e3c65a74c9e482e5dd51e74aa48932370eefabeceacc
   languageName: node
   linkType: hard
 
