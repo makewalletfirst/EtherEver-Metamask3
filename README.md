@@ -29,7 +29,7 @@ vim app/components/Views/NetworkSelector/NetworkSelector.tsx <br>
 내용: chainId: '0x1' -> chainId: '0xe2c3'
 
 vim app/core/Engine/controllers/transaction-controller/data-helpers.ts <br>
-수정할 줄: 26번 줄
+수정할 줄: 26번 줄   얘는 여기서 절대로 밑에 있는 ETH 티커를 변경하면 안됨 그러면 오히려 꼬임
 
 내용: chainId: '0x1' -> chainId: '0xe2c3'
 
